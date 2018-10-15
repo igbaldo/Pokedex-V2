@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    margin-bottom: 10px;
+}
+header, main{
+    max-width: 960px;
+    margin:auto;
+    text-align: center; 
+    border-radius: 16px;
+    margin: auto;
+    padding: 2%;
+    color: #FFF;
+    background: linear-gradient(to right, rgba(69,72,77,1) 0%,rgba(0,0,0,1) 100%);
+}
